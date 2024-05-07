@@ -1,0 +1,26 @@
+h1 {
+
+    color: blue;
+    font-size: 75px;
+    font-family: ADLaM Display;
+    text-shadow: 3px 5px 5px black;
+}
+body {
+    background: linear-gradient(to top, red, white);
+    background-attachment: fixed;
+}
+
+h2 {
+    color: green;
+    font-family: ADLaM Display;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    font-family: ADLaM Display;
+    /* Text shadow adds black outline around text */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
